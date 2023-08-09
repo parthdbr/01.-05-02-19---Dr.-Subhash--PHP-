@@ -1,0 +1,1 @@
+<p>&copy; Video Site. All rights reserved. Project by Romit.</p>

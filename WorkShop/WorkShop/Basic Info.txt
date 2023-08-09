@@ -1,0 +1,24 @@
+Web Dev
+	-> HTML
+	-> CSS
+		Bootstrap - Responive Design
+	-> Javascript
+		jQuery
+		jQuery UI
+	-> PHP
+		Core
+		OOP PHP
+		MVC
+			Laravel
+			CogeIgniter
+			Symphony
+			Zend
+			Cake PHP
+		CMS
+			Wordpress
+			Magento
+			Drupal
+	-> MySQL
+		DB Design
+		SQL Quaries
+

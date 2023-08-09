@@ -1,0 +1,15 @@
+Login
+Admin Login
+Comments on video
+Rating on video
+like / dislike on video
+User profile
+User private message to each other
+Video upload -> send for verification to admin 
+Mass upload from .xls of categories
+View feedbacks on admin panel
+home page -> show latest videos
+Top users by most uploaded count
+Top videos by rating
+Vide download
+Video View counter
